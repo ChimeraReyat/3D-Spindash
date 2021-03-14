@@ -11,3 +11,5 @@ Some caveats:
 - Slide parameters don't seem to affect him *either,* meaning the only things that affect him when rolling are standard physics params.
 
 By design, this is very bare-bones, not adding anything else fancy. This means no spin-cancelling/spamdash, or a good turning radius--you really can't turn much at all honestly. However, this is provided with the full source code, so feel free to modify it however you see fit. Though, if you don't know any assembly... good luck, haha.
+
+MAKE SURE YOU USE HEDGEMODMANAGER TO USE THIS, this uses DLL code injection which is not supported in SonicGMI.
